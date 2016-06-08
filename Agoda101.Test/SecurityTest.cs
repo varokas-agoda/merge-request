@@ -6,7 +6,7 @@ namespace Agoda101.Testing
     public class SecurityTest
     {
         [Test]
-        [TestCase("Lee Yates")]
+        [TestCase("Lee")]
         public void AllowedIn(string name)
         {
             var service = new Security();
