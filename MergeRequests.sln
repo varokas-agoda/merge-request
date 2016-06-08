@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agoda101", "Agoda101\Agoda101.csproj", "{EF0EA4E7-96FD-4938-9E13-1CD0AE050A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agoda101.Test", "Agoda101.Test\Agoda101.Test.csproj", "{69CFFA5D-48F9-4D49-8DE7-4BA7D078357B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF0EA4E7-96FD-4938-9E13-1CD0AE050A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0EA4E7-96FD-4938-9E13-1CD0AE050A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0EA4E7-96FD-4938-9E13-1CD0AE050A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0EA4E7-96FD-4938-9E13-1CD0AE050A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69CFFA5D-48F9-4D49-8DE7-4BA7D078357B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CFFA5D-48F9-4D49-8DE7-4BA7D078357B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CFFA5D-48F9-4D49-8DE7-4BA7D078357B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CFFA5D-48F9-4D49-8DE7-4BA7D078357B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
