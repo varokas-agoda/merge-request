@@ -7,8 +7,8 @@
     <ProjectGuid>{69CFFA5D-48F9-4D49-8DE7-4BA7D078357B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Agoda101.Testing</RootNamespace>
-    <AssemblyName>Agoda101.Testing</AssemblyName>
+    <RootNamespace>Agoda101.Test</RootNamespace>
+    <AssemblyName>Agoda101.Test</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
