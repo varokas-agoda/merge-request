@@ -13,7 +13,6 @@ namespace Agoda101
             {
                 case "Leee":
                 case "Rambo":
-                case "Bruce Lee":
                     return true;
                 default:
                     return false;
