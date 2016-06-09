@@ -11,8 +11,8 @@ namespace Agoda101
         {
             switch (name)
             {
-                case "Lee":
-                case "Ramboo":
+                case "Leee":
+                case "Rambo":
                     return true;
                 default:
                     return false;
