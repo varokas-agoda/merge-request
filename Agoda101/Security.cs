@@ -13,6 +13,8 @@ namespace Agoda101
             {
                 case "Lee":
                     return true;
+                case "Nir":
+                    return true;
                 default:
                     return false;
             }
