@@ -14,6 +14,12 @@ namespace Agoda101
                 case "Lee":
                 case "Snir":
                     return true;
+                case "Tum":
+                    return true;
+                case "Nir":
+                    return true;
+                case "Mickey":
+                    return true;
                 default:
                     return false;
             }
