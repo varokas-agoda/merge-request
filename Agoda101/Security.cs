@@ -15,6 +15,8 @@ namespace Agoda101
                     return true;
                 case "Nir":
                     return true;
+                case "Mickey":
+                    return true;
                 default:
                     return false;
             }
