@@ -7,6 +7,7 @@ namespace Agoda101.Testing
     {
         [Test]
         [TestCase("Lee")]
+        [TestCase("Mickey")]
         public void AllowedIn(string name)
         {
             var service = new Security();
