@@ -12,6 +12,7 @@ namespace Agoda101
             switch (name)
             {
                 case "Lee":
+                case "Tum":
                     return true;
                 case "Nir":
                     return true;
