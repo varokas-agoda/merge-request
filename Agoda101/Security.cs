@@ -13,6 +13,7 @@ namespace Agoda101
             {
                 case "Lee":
                 case "Tum":
+                case "Joel":
                     return true;
                 case "Nir":
                     return true;
